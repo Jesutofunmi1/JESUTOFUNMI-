@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class Prompter {
+public class Prompter<matriculationNumber> {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -25,6 +25,5 @@ public class Prompter {
         System.out.printf("name is %s%n, matricNo is %s%n, age is %d%n, accDetails is  %.1f%n ", name, matriculationNumber,
                 age,accountNumber);
     }
+    }
 
-
-}

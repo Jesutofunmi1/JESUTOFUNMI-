@@ -2,45 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Darasimi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ApplicationDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ArithmeticLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Arithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/CodePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/CodePrint3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/CodePrint4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ComparingIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/IntegersRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Olodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Output1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Prompter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Trenches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/ArithmeticLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/ArithmeticLogicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/Chapter3/TestDriller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/HealthProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/FanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/Output1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/TestDrillerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Chapter3/sumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DecreasingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/IncreasingNumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/IncreasingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/RightSidedTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/RightSidedTriangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/SingleNumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/TriangleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/AsterisksTriangleShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zuba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Output1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Output1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Prompter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Prompter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/HealthProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/HealthProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +72,12 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd.Chapter3" />
       <recent name="tdd" />
       <recent name="" />
     </key>
@@ -104,13 +92,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KataTest">
-    <configuration name="ArithmeticLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ArithmeticLogic" />
+  <component name="RunManager" selected="Application.IncreasingNumberPattern">
+    <configuration name="DecreasingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.DecreasingTriangle" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.*" />
+          <option name="PATTERN" value="Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,87 +106,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IncreasingNumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.IncreasingNumberPattern" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.Chapter3.*" />
+          <option name="PATTERN" value="Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd.Chapter3" />
-      <option name="MAIN_CLASS_NAME" value="tdd.Chapter3.KataTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest.additionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RightSidedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.RightSidedTriangle" />
       <module name="Darasimi" />
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.KataTest" />
-      <option name="METHOD_NAME" value="additionTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest.differenceOfSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RightSidedTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.RightSidedTriangle2" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.Chapter3.*" />
+          <option name="PATTERN" value="Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd.Chapter3" />
-      <option name="MAIN_CLASS_NAME" value="tdd.Chapter3.KataTest" />
-      <option name="METHOD_NAME" value="differenceOfSquare" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest.squareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingleNumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.SingleNumberPattern" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.Chapter3.*" />
+          <option name="PATTERN" value="Chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd.Chapter3" />
-      <option name="MAIN_CLASS_NAME" value="tdd.Chapter3.KataTest" />
-      <option name="METHOD_NAME" value="squareTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArithmeticLogicTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Darasimi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tdd.Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tdd.Chapter3" />
-      <option name="MAIN_CLASS_NAME" value="tdd.Chapter3.ArithmeticLogicTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KataTest" />
-        <item itemvalue="JUnit.KataTest.squareTest" />
-        <item itemvalue="JUnit.KataTest.differenceOfSquare" />
-        <item itemvalue="TestNG.ArithmeticLogicTest" />
-        <item itemvalue="Application.ArithmeticLogic" />
+        <item itemvalue="Application.IncreasingNumberPattern" />
+        <item itemvalue="Application.SingleNumberPattern" />
+        <item itemvalue="Application.RightSidedTriangle2" />
+        <item itemvalue="Application.RightSidedTriangle" />
+        <item itemvalue="Application.DecreasingTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -213,58 +179,28 @@
       <workItem from="1650634172982" duration="21247000" />
       <workItem from="1650738258331" duration="83646000" />
       <workItem from="1650925378000" duration="4596000" />
-      <workItem from="1650940116417" duration="35519000" />
+      <workItem from="1650940116417" duration="40715000" />
+      <workItem from="1651161722382" duration="12048000" />
+      <workItem from="1651230901494" duration="9925000" />
+      <workItem from="1651278020280" duration="19149000" />
+      <workItem from="1651532830779" duration="3417000" />
+      <workItem from="1651706249253" duration="18744000" />
     </task>
+    <task id="LOCAL-00001" summary="Go placidly">
+      <created>1651116932074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651116932075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Chapter2/ApplicationDisplay.java</url>
-          <line>3</line>
-          <properties class="Chapter2.src.ApplicationDisplay">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/tdd/Chapter3/ArithmeticLogicTest.java</url>
-          <line>9</line>
-          <properties class="tdd.ArithmeticLogicTest" method="addNumberTest">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/tdd/Chapter3/ArithmeticLogicTest.java</url>
-          <line>16</line>
-          <properties class="tdd.Chapter3.ArithmeticLogicTest" method="squareOfNumber">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java</url>
-          <line>49</line>
-          <properties class="tdd.Chapter3.KataTest" method="squareOfNumber1">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tdd/Chapter3/ArithmeticLogicTest.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Go placidly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go placidly" />
   </component>
 </project>
