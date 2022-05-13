@@ -2,32 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/DecreasingTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/IncreasingNumberPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/IncreasingTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/RightSidedTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/RightSidedTriangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/SingleNumberPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/TriangleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/AsterisksTriangleShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zuba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/DiameterQuestion28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/FinancialApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/IntegerValueQuestion29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/MyProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/SeparatingQuestion30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTestie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Analysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ForCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/GradeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/IVR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Ivr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/NOKIA3310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/VIR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/WhileCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Output1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Output1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Prompter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Prompter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/HealthProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/HealthProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BarChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/BarChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Arithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Arithmetics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionalGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/ConditionalGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Grading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Grading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zuba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Zuba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +73,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,27 +83,28 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "/home/jesutofunmi/Darasimi/src",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tdd.Chapter3" />
@@ -84,6 +114,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Chapter2" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="tdd.Chapter3" />
       <recent name="tdd" />
@@ -92,13 +125,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IncreasingNumberPattern">
-    <configuration name="DecreasingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.DecreasingTriangle" />
+  <component name="RunManager" selected="Application.Nokia">
+    <configuration name="Chapter5.Ivr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.Ivr" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncreasingNumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.IncreasingNumberPattern" />
+    <configuration name="Chapter5.VIR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.VIR" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightSidedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.RightSidedTriangle" />
+    <configuration name="NOKIA3310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.NOKIA3310" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightSidedTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.RightSidedTriangle2" />
+    <configuration name="Nokia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.Nokia" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.SingleNumberPattern" />
+    <configuration name="SapaGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.SapaGrade" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IncreasingNumberPattern" />
-        <item itemvalue="Application.SingleNumberPattern" />
-        <item itemvalue="Application.RightSidedTriangle2" />
-        <item itemvalue="Application.RightSidedTriangle" />
-        <item itemvalue="Application.DecreasingTriangle" />
+        <item itemvalue="Application.Nokia" />
+        <item itemvalue="Application.Chapter5.Ivr" />
+        <item itemvalue="Application.NOKIA3310" />
+        <item itemvalue="Application.Chapter5.VIR" />
+        <item itemvalue="Application.SapaGrade" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +217,8 @@
       <workItem from="1651230901494" duration="9925000" />
       <workItem from="1651278020280" duration="19149000" />
       <workItem from="1651532830779" duration="3417000" />
-      <workItem from="1651706249253" duration="18744000" />
+      <workItem from="1651706249253" duration="82643000" />
+      <workItem from="1652142611911" duration="58037000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
@@ -193,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651116932075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Go placidly">
+      <created>1651770246055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651770246056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,5 +243,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Go placidly" />
     <option name="LAST_COMMIT_MESSAGE" value="Go placidly" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
