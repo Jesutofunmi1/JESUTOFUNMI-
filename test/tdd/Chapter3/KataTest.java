@@ -5,6 +5,8 @@ import org.junit.jupiter.api.Test;
 import tdd.Chapter3.Kata;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 
 public class KataTest {
 
@@ -74,6 +76,11 @@ public class KataTest {
         assertEquals(136, result);
 
     }
+//    @Test
+////    public void petrolPrice() {
+//        Petrol petrol = new Petrol();
+//        int result = petrol.price("unilag","gas",50,165,0.05);
+//    }
 
     @Test
     public void differenceOfSquare() {
@@ -131,6 +138,32 @@ public class KataTest {
         String result = grading.getGrade(55);
         assertEquals("F", result);
     }
-}
+//        @Test
+//        public void factorTest() {
+//            int factors = Kata.noOfFactorsOf(5);
+//            short expected;
+//            assertEquals(2, factors);
+//
+//            factors = Kata.noOfFactorsOf(10);
+//            assertEquals(4);
+
+       @Test
+            public void factorTest() {
+            Kata factor = new Kata();
+            int factors = Kata.noOfFactorsof(5);
+            assertEquals(2,factor);
+
+            factors = Kata.noOfFactorsof(10);
+            assertEquals(10,factor);
+
+        }
+
+        @Test
+    public void primeNumberTest() {
+        boolean isPrime = Kata.isPrime(5);
+        assertTrue(isPrime);
+        }
+    }
+
 
 

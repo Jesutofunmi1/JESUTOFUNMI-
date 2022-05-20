@@ -2,61 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/DiameterQuestion28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/FinancialApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/IntegerValueQuestion29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/MyProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/SeparatingQuestion30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/AccountTestie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Analysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ConditionalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ForCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/GradeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ifelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/BreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ForCounter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/IVR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Ivr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/NOKIA3310.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Nokia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/VIR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/WhileCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/NokiaPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/HotelAccommodation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter7/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personalFun/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personalFun/Fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/personalFunTest/FunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/personalFunTest/PetrolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BarChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/BarChart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Arithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Arithmetics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/SapaGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/TriangleAsterisks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/ConditionalGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Grading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zuba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Zuba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/Nokia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Nokia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +61,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/src&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/src/personalFun&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -107,6 +71,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="personalFun" />
+      <recent name="Chapter6" />
       <recent name="tdd.Chapter3" />
       <recent name="tdd" />
       <recent name="" />
@@ -125,13 +91,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Nokia">
-    <configuration name="Chapter5.Ivr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.Ivr" />
+  <component name="RunManager" selected="Application.HotelAccommodation">
+    <configuration name="Chapter7.MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.MyArray" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter5.VIR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.VIR" />
+    <configuration name="HotelAccommodation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.HotelAccommodation" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NOKIA3310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.NOKIA3310" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.Main" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SapaGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.SapaGrade" />
+    <configuration name="NokiaPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.NokiaPhone" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HotelAccommodation" />
+        <item itemvalue="Application.NokiaPhone" />
+        <item itemvalue="Application.Chapter7.MyArray" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Nokia" />
-        <item itemvalue="Application.Chapter5.Ivr" />
-        <item itemvalue="Application.NOKIA3310" />
-        <item itemvalue="Application.Chapter5.VIR" />
-        <item itemvalue="Application.SapaGrade" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +184,11 @@
       <workItem from="1651278020280" duration="19149000" />
       <workItem from="1651532830779" duration="3417000" />
       <workItem from="1651706249253" duration="82643000" />
-      <workItem from="1652142611911" duration="58037000" />
+      <workItem from="1652142611911" duration="89622000" />
+      <workItem from="1652541296401" duration="27557000" />
+      <workItem from="1652619882630" duration="24316000" />
+      <workItem from="1652861133982" duration="592000" />
+      <workItem from="1652905314552" duration="38633000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
@@ -234,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651770246056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Go plasidly amidst the noise and haste">
+      <created>1652431068491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652431068491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Go placidly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Go placidly" />
+    <MESSAGE value="Go plasidly amidst the noise and haste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go plasidly amidst the noise and haste" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
