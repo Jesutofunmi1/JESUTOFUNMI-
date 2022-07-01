@@ -1,26 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/FileRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/NokiaPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/HotelAccommodation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personalFun/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personalFun/Fun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/personalFunTest/FunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/personalFunTest/PetrolTest.java" afterDir="false" />
+    <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="Figure it out!">
+      <change afterPath="$PROJECT_DIR$/src/AccountOOP/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountOOP/Account2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountOOP/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount/AccountXiamie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingProbs3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/LargeNumTrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery2ProMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/FinAppPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter8/Time1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorAssg/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/DoctorStranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/DoctorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeMakesPerfect/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/OneDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtle/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtle/SketchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtle/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turtle/TurtlePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DSA/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Turtle/TurtleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Nokia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Nokia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Nokia3310.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/KataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/SalesCommissionCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/SalesCommissionCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +58,35 @@
       <list>
         <option value="Record" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Chapter2/Checkerboard.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Chapter2/LargeSmall.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Chapter2/SeparatingTheDigit.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Chapter2/Shapes.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ChibuzorAssg/CalculateInYears.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ChibuzorAssg/DrivingCost.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ChibuzorAssg/FinancialApp.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ChibuzorAssg/HealthApp.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ChibuzorAssg/ScienceCalEnergy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PracticeMakesPerfect/Diameter.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="289gML3LFIHel5fXmxFl7jO4LEf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +94,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
@@ -61,7 +105,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/src/personalFun&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jesutofunmi/Darasimi/src&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -71,11 +116,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="personalFun" />
-      <recent name="Chapter6" />
-      <recent name="tdd.Chapter3" />
-      <recent name="tdd" />
+      <recent name="DSA" />
       <recent name="" />
+      <recent name="BankAccount" />
+      <recent name="AccountOOP" />
+      <recent name="HospitalManagement" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -88,16 +136,18 @@
       <recent name="tdd" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Turtle" />
+      <recent name="Chapter7" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HotelAccommodation">
-    <configuration name="Chapter7.MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.MyArray" />
+  <component name="RunManager" selected="JUnit.ListTest">
+    <configuration name="Time1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.Time1Test" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.*" />
+          <option name="PATTERN" value="Chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,65 +155,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelAccommodation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.HotelAccommodation" />
+    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="DSA" />
+      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.Main" />
+    <configuration name="ListTest.addItem_ListNotEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter7.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="DSA" />
+      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
+      <option name="METHOD_NAME" value="addItem_ListNotEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nokia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.Nokia" />
+    <configuration name="ListTest.addItem_andRemoveItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="DSA" />
+      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
+      <option name="METHOD_NAME" value="addItem_andRemoveItemTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NokiaPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.NokiaPhone" />
+    <configuration name="ListTest.testThatListIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.*" />
+          <option name="PATTERN" value="DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="DSA" />
+      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
+      <option name="METHOD_NAME" value="testThatListIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HotelAccommodation" />
-        <item itemvalue="Application.NokiaPhone" />
-        <item itemvalue="Application.Chapter7.MyArray" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Nokia" />
+        <item itemvalue="JUnit.ListTest" />
+        <item itemvalue="JUnit.ListTest.addItem_andRemoveItemTest" />
+        <item itemvalue="JUnit.ListTest.addItem_ListNotEmptyTest" />
+        <item itemvalue="JUnit.ListTest.testThatListIsEmpty" />
+        <item itemvalue="Application.Time1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +249,70 @@
       <workItem from="1652541296401" duration="27557000" />
       <workItem from="1652619882630" duration="24316000" />
       <workItem from="1652861133982" duration="592000" />
-      <workItem from="1652905314552" duration="38633000" />
+      <workItem from="1652905314552" duration="43822000" />
+      <workItem from="1653085257551" duration="5448000" />
+      <workItem from="1653140176346" duration="74512000" />
+      <workItem from="1653419289853" duration="287000" />
+      <workItem from="1653428801563" duration="14488000" />
+      <workItem from="1653466973259" duration="1983000" />
+      <workItem from="1653475019776" duration="16366000" />
+      <workItem from="1653514572551" duration="28451000" />
+      <workItem from="1653613430529" duration="31113000" />
+      <workItem from="1653767020673" duration="10971000" />
+      <workItem from="1653779939824" duration="43000" />
+      <workItem from="1653788367825" duration="5936000" />
+      <workItem from="1653821848523" duration="1786000" />
+      <workItem from="1653823931706" duration="22968000" />
+      <workItem from="1653919980844" duration="336000" />
+      <workItem from="1653921922250" duration="1498000" />
+      <workItem from="1653950289318" duration="24608000" />
+      <workItem from="1653979905238" duration="764000" />
+      <workItem from="1653984739302" duration="573000" />
+      <workItem from="1654009457273" duration="700000" />
+      <workItem from="1654041230785" duration="35953000" />
+      <workItem from="1654167844426" duration="2754000" />
+      <workItem from="1654210158315" duration="6930000" />
+      <workItem from="1654243496481" duration="5118000" />
+      <workItem from="1654369997442" duration="8401000" />
+      <workItem from="1654381157348" duration="13540000" />
+      <workItem from="1654426695069" duration="26974000" />
+      <workItem from="1654549655973" duration="1661000" />
+      <workItem from="1654766471501" duration="1709000" />
+      <workItem from="1654772673421" duration="8399000" />
+      <workItem from="1655142296984" duration="1447000" />
+      <workItem from="1655191688603" duration="23399000" />
+      <workItem from="1655363484829" duration="4001000" />
+      <workItem from="1655409406708" duration="3062000" />
+      <workItem from="1655565615028" duration="21767000" />
+      <workItem from="1655594443466" duration="12695000" />
+      <workItem from="1655728207107" duration="13805000" />
+      <workItem from="1655765556268" duration="5574000" />
+      <workItem from="1655799509134" duration="5196000" />
+      <workItem from="1655824301958" duration="792000" />
+      <workItem from="1655842642366" duration="11808000" />
+      <workItem from="1655855438697" duration="2719000" />
+      <workItem from="1655884591056" duration="3575000" />
+      <workItem from="1655906181905" duration="11430000" />
+      <workItem from="1655921178282" duration="8597000" />
+      <workItem from="1655944136972" duration="7835000" />
+      <workItem from="1656089168043" duration="345000" />
+      <workItem from="1656167964813" duration="3751000" />
+      <workItem from="1656189723832" duration="2912000" />
+      <workItem from="1656197813805" duration="4159000" />
+      <workItem from="1656268979941" duration="25591000" />
+      <workItem from="1656316060390" duration="51000" />
+      <workItem from="1656318231868" duration="6000" />
+      <workItem from="1656323160068" duration="3039000" />
+      <workItem from="1656330634041" duration="5685000" />
+      <workItem from="1656362503566" duration="13493000" />
+      <workItem from="1656400443538" duration="4894000" />
+      <workItem from="1656428948534" duration="8105000" />
+      <workItem from="1656482451567" duration="28000" />
+      <workItem from="1656489510200" duration="19337000" />
+      <workItem from="1656519466124" duration="1386000" />
+      <workItem from="1656538744873" duration="7414000" />
+      <workItem from="1656625892279" duration="12419000" />
+      <workItem from="1656671488441" duration="1220000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
@@ -211,16 +335,50 @@
       <option name="project" value="LOCAL" />
       <updated>1652431068491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Figure it out!">
+      <created>1653044467666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653044467666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Figure it out!">
+      <created>1655667898576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655667898576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Figure it out!">
+      <created>1655669160975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655669160975</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Go placidly" />
     <MESSAGE value="Go plasidly amidst the noise and haste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Go plasidly amidst the noise and haste" />
+    <MESSAGE value="Figure it out!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Figure it out!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
