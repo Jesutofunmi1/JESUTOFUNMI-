@@ -1,52 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="Figure it out!">
-      <change afterPath="$PROJECT_DIR$/src/AccountOOP/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountOOP/Account2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountOOP/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/AccountXiamie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingProbs3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/DanglingStatement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/LargeNumTrial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery2ProMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mystery3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/FinAppPro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/Time1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorAssg/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/DoctorStranger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HospitalManagement/DoctorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeMakesPerfect/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/OneDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turtle/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turtle/SketchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turtle/TurtlePosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DSA/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Turtle/TurtleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorAssg/Glory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/HashStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIFE/CatWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIFE/DorcasWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIFE/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIFE/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIFE/Walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBook/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBook/UserInfoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/AirCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/AirConditionerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DSA/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DSA/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/personalFunTest/Jacob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/personalFunTest/jayjay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/SalesCommissionCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/SalesCommissionCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/DoWhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personalFun/PetrolPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/DSA/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DSA/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/FanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/FanTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +46,13 @@
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Chapter2/Checkerboard.java" root0="FORCE_HIGHLIGHTING" />
@@ -106,7 +92,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;last_directory_selection&quot;: &quot;/home/jesutofunmi/Darasimi/test&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jesutofunmi/Darasimi/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jesutofunmi/IdeaProjects/D1R1S3M3&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -116,11 +102,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="DSA" />
       <recent name="" />
+      <recent name="PhoneBook" />
+      <recent name="ChibuzorTest" />
+      <recent name="DSA" />
       <recent name="BankAccount" />
-      <recent name="AccountOOP" />
-      <recent name="HospitalManagement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -132,6 +118,7 @@
       <recent name="$PROJECT_DIR$/src/Chapter2" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DSA" />
       <recent name="tdd.Chapter3" />
       <recent name="tdd" />
     </key>
@@ -141,13 +128,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListTest">
-    <configuration name="Time1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.Time1Test" />
+  <component name="RunManager" selected="Application.DrivingCost">
+    <configuration name="DrivingCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChibuzorAssg.DrivingCost" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
+          <option name="PATTERN" value="ChibuzorAssg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,64 +142,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.*" />
+          <option name="PATTERN" value="ChibuzorTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSA" />
-      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
+      <option name="PACKAGE_NAME" value="ChibuzorTest" />
+      <option name="MAIN_CLASS_NAME" value="ChibuzorTest.BikeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.addItem_ListNotEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSA" />
-      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
-      <option name="METHOD_NAME" value="addItem_ListNotEmptyTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.testThatPhoneBookCanBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Darasimi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="testThatPhoneBookCanBeCreated" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.addItem_andRemoveItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookTest.testThatUserDetailIsDefined" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Darasimi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSA" />
-      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
-      <option name="METHOD_NAME" value="addItem_andRemoveItemTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest.testThatListIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Darasimi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSA" />
-      <option name="MAIN_CLASS_NAME" value="DSA.ListTest" />
-      <option name="METHOD_NAME" value="testThatListIsEmpty" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="testThatUserDetailIsDefined" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListTest" />
-        <item itemvalue="JUnit.ListTest.addItem_andRemoveItemTest" />
-        <item itemvalue="JUnit.ListTest.addItem_ListNotEmptyTest" />
-        <item itemvalue="JUnit.ListTest.testThatListIsEmpty" />
-        <item itemvalue="Application.Time1Test" />
+        <item itemvalue="Application.DrivingCost" />
+        <item itemvalue="JUnit.PhoneBookTest.testThatUserDetailIsDefined" />
+        <item itemvalue="JUnit.PhoneBookTest" />
+        <item itemvalue="JUnit.PhoneBookTest.testThatPhoneBookCanBeCreated" />
+        <item itemvalue="JUnit.BikeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +280,38 @@
       <workItem from="1656519466124" duration="1386000" />
       <workItem from="1656538744873" duration="7414000" />
       <workItem from="1656625892279" duration="12419000" />
-      <workItem from="1656671488441" duration="1220000" />
+      <workItem from="1656671488441" duration="1474000" />
+      <workItem from="1656682121880" duration="3154000" />
+      <workItem from="1657008599039" duration="171000" />
+      <workItem from="1657009036253" duration="1873000" />
+      <workItem from="1657028215386" duration="6694000" />
+      <workItem from="1657065694434" duration="7946000" />
+      <workItem from="1657093966757" duration="2363000" />
+      <workItem from="1657097637593" duration="11685000" />
+      <workItem from="1657145910409" duration="6680000" />
+      <workItem from="1657177594017" duration="2645000" />
+      <workItem from="1657183217337" duration="4000" />
+      <workItem from="1657226707951" duration="3026000" />
+      <workItem from="1657295097590" duration="595000" />
+      <workItem from="1657396320067" duration="2001000" />
+      <workItem from="1657462034899" duration="571000" />
+      <workItem from="1657465052561" duration="266000" />
+      <workItem from="1657469530456" duration="4677000" />
+      <workItem from="1657481868949" duration="2050000" />
+      <workItem from="1657507058648" duration="1241000" />
+      <workItem from="1657547707621" duration="1117000" />
+      <workItem from="1657569767893" duration="5797000" />
+      <workItem from="1657584447771" duration="1281000" />
+      <workItem from="1657740840024" duration="19709000" />
+      <workItem from="1657812312389" duration="11592000" />
+      <workItem from="1657838256758" duration="5396000" />
+      <workItem from="1657990341338" duration="5671000" />
+      <workItem from="1658101996012" duration="2045000" />
+      <workItem from="1658133419254" duration="1173000" />
+      <workItem from="1658148340669" duration="145000" />
+      <workItem from="1658333941030" duration="258000" />
+      <workItem from="1658587804542" duration="738000" />
+      <workItem from="1658820741105" duration="1368000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
@@ -356,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655669160975</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Strive to be happy">
+      <created>1656673555717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656673555717</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +384,8 @@
     <MESSAGE value="Go placidly" />
     <MESSAGE value="Go plasidly amidst the noise and haste" />
     <MESSAGE value="Figure it out!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Figure it out!" />
+    <MESSAGE value="Strive to be happy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strive to be happy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

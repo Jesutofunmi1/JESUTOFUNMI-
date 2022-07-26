@@ -3,17 +3,17 @@ package DSA;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ListTest {
 
     List list;
 
     @BeforeEach
-    void setUp() {
-        list = new ArrayList(3);
+    public void setUp() {
+        list = new ArrayList();
+
     }
     @Test
     void testThatListIsEmpty() {
@@ -21,15 +21,28 @@ public class ListTest {
     }
 
     @Test
-    void addItem_ListNotEmptyTest() {
-        list.add("G-String");
+    void testThatItemsAreAddedToTheList() {
+        list.addItem("iPhone");
         assertFalse(list.isEmpty());
+        assertEquals(1,list.size());
+    }
+    @Test
+    void testThatWeCanRemoveItem() {
+        list.addItem("iPhone");
+        list.addItem("Charger");
+        list.addItem("airPod");
+        assertEquals(3, list.size());
+        list.removeItem("iPhone");
+        assertEquals(2, list.size());
+    }
+    @Test
+    void testThatItemsCanBeGotten() {
+        list.addItem("iPhone");
+        list.addItem("Charger");
+        list.addItem("airPod");
+        assertEquals("Charger", list.getIndex(1));
+
     }
 
-    @Test
-    void addItem_andRemoveItemTest() {
-        list.add("G-String");
-        list.delete("G-String");
-        assertTrue(list.isEmpty());
-    }
 }
+

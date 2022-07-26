@@ -2,7 +2,6 @@
 package tdd.Chapter3;
 
 import org.junit.jupiter.api.Test;
-import tdd.Chapter3.Fan;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -67,7 +66,7 @@ public class FanTest {
         assertEquals(1, fan.getSpeed());
 
     }
- @Test
+    @Test
     public void fanSpeedCanDecreaseBeyond_0(){
         Fan fan = new Fan("MEM");
         fan.turnOn();
