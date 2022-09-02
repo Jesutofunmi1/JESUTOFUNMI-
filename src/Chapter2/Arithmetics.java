@@ -21,52 +21,29 @@ public class Arithmetics {
         System.out.printf("Sum is %d%n ", sum);
 
         int average = sum / 2;
-        System.out.printf(" average is %d%n", average);
+        System.out.printf("Average is %d%n", average);
 
         int product = sum * 2;
-        System.out.printf("product of sum is %d%n", product);
+        System.out.printf("Product of sum is %d%n", product);
 
         if ( number1 > number2 && number1 > number3 ) {
-            System.out.printf("%d > %d%n", number1);
+            System.out.printf("%d is the greatest %n", number1);
         }
         if ( number1 < number2 && number1 < number3 ) {
-            System.out.printf("%d > %d%n", number1);
+            System.out.printf("%d is the smallest %n", number1);
         }
-        if (number1 > number3 && number1 > number2 ) {
-            System.out.printf("%d > %d%n", number1);
+        if (number2 > number3 && number2 > number1 ) {
+            System.out.printf("%d is the greatest %n", number2);
         }
-        if (number1 < number3 && number1 < number2 ) {
-            System.out.printf("%d > %d%n", number1);
+        if (number2 < number3 && number2 < number1 ) {
+            System.out.printf("%d is the smallest %n", number2);
         }
-
-        if (number2 > number3 && number2 > number1) {
-            System.out.printf("%d > %d%n", number2);
-        }
-        if (number2 < number3 && number2 < number1) {
-            System.out.printf("%d > %d%n", number2);
-        }
-        if (number2 > number1 && number2 > number3) {
-            System.out.printf("%d > %d%n", number2);
-        }
-        if (number2 < number1 && number2 < number3) {
-            System.out.printf("%d > %d%n", number2);
-        }
-
 
         if (number3 > number2 && number3 > number1) {
-            System.out.printf("%d > %d%n", number3);
+            System.out.printf("%d is the greatest %n", number3);
         }
         if (number3 < number2 && number3 < number1) {
-            System.out.printf("%d > %d%n", number3);
-        }
-        if (number3 > number1 && number3 > number2) {
-            System.out.printf("%d > %d%n", number3);
-        }
-        if (number3 > number1 && number3 > number2) {
-            System.out.printf("%d > %d%n", number3);
+            System.out.printf("%d is the smallest %n", number3);
         }
     }
-
-
-
 }

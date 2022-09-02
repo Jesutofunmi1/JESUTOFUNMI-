@@ -2,37 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b41e2a-041d-4c6e-8350-cbef13a39fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorAssg/Glory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/HashStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIFE/CatWalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIFE/DorcasWalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIFE/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIFE/HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIFE/Walk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBook/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBook/UserInfoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/AirCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/AirConditionerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ChibuzorTest/BikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DSA/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DSA/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PhoneBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/personalFunTest/Jacob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/personalFunTest/jayjay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/ReadingFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/WritingToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/MainAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/MainVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/BankAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/LetterGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Chapter3/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Chapter3/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/DSA/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DSA/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/FanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/FanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/PetrolPurchaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,13 +115,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DrivingCost">
-    <configuration name="DrivingCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChibuzorAssg.DrivingCost" />
+  <component name="RunManager" selected="Application.Even">
+    <configuration name="Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.Even" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChibuzorAssg.*" />
+          <option name="PATTERN" value="Chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,57 +129,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter15.Example4" />
       <module name="Darasimi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChibuzorTest.*" />
+          <option name="PATTERN" value="Chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ChibuzorTest" />
-      <option name="MAIN_CLASS_NAME" value="ChibuzorTest.BikeTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.Main" />
       <module name="Darasimi" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookTest.testThatPhoneBookCanBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.MainAnimal" />
       <module name="Darasimi" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
-      <option name="METHOD_NAME" value="testThatPhoneBookCanBeCreated" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookTest.testThatUserDetailIsDefined" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.MainVehicle" />
       <module name="Darasimi" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
-      <option name="METHOD_NAME" value="testThatUserDetailIsDefined" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DrivingCost" />
-        <item itemvalue="JUnit.PhoneBookTest.testThatUserDetailIsDefined" />
-        <item itemvalue="JUnit.PhoneBookTest" />
-        <item itemvalue="JUnit.PhoneBookTest.testThatPhoneBookCanBeCreated" />
-        <item itemvalue="JUnit.BikeTest" />
+        <item itemvalue="Application.Even" />
+        <item itemvalue="Application.MainAnimal" />
+        <item itemvalue="Application.MainVehicle" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example4" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +306,19 @@
       <workItem from="1658148340669" duration="145000" />
       <workItem from="1658333941030" duration="258000" />
       <workItem from="1658587804542" duration="738000" />
-      <workItem from="1658820741105" duration="1368000" />
+      <workItem from="1658820741105" duration="2379000" />
+      <workItem from="1658974754059" duration="519000" />
+      <workItem from="1659078394671" duration="2530000" />
+      <workItem from="1660423219478" duration="796000" />
+      <workItem from="1660602486150" duration="829000" />
+      <workItem from="1660637617932" duration="2891000" />
+      <workItem from="1661076266052" duration="1792000" />
+      <workItem from="1661100329587" duration="694000" />
+      <workItem from="1661258813563" duration="3045000" />
+      <workItem from="1661262519092" duration="4038000" />
+      <workItem from="1661418905044" duration="5676000" />
+      <workItem from="1661433425833" duration="218000" />
+      <workItem from="1661934405585" duration="9324000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
@@ -362,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656673555717</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Strive to be happy">
+      <created>1658829783318</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658829783318</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

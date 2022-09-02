@@ -27,10 +27,6 @@ public class Fan {
 
     public void increaseSpeed()  {
         if (speed >= 0 && speed < 3 ) {
-            // speed = 0 , speed+1=1
-            //speed=1, speed+1=2
-            //speed = 2, speed + 1=3
-            //speed = 3, speed=3
             speed = speed + 1;
         }
         }

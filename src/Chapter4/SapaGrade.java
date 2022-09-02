@@ -15,6 +15,7 @@ public class SapaGrade {
         else {
             System.out.println("Failed");
             System.out.println("You must take this course again.");
+            System.out.println("Except if you want to go and hustle! ");
 
         }
     }

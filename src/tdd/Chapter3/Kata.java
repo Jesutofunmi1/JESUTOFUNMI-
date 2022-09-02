@@ -1,5 +1,18 @@
 package tdd.Chapter3;
 public class Kata {
+
+    public static int noOfFactorsof(int number) {
+        int factor = 0;
+        for (int i = 1; i <= number; i++)
+            if (number % i == 0) factor++;
+        return factor;
+    }
+
+    public static boolean isPrime(int number) {
+        if (noOfFactorsof(number) == 2);
+            return true;
+        }
+
     public int add(int firstNumber, int secondNumber) {
         return 5;
     }

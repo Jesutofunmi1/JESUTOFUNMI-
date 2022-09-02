@@ -23,5 +23,6 @@ public class PetrolPurchaseTest {
         assertEquals(30.00, petrolPurchase.getPrice());
         assertEquals(2.00, petrolPurchase.getDiscount());
         assertEquals(1498.00, petrolPurchase.getPurchaseAmount());
+
     }
 }
