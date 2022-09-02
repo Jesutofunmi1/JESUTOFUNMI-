@@ -16,10 +16,8 @@
       <change afterPath="$PROJECT_DIR$/src/Chapter17/MainAnimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chapter17/MainVehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chapter17/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter2/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Chapter3/PetrolPurchaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Chapter3/PetrolPurchaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,6 +317,7 @@
       <workItem from="1661418905044" duration="5676000" />
       <workItem from="1661433425833" duration="218000" />
       <workItem from="1661934405585" duration="9324000" />
+      <workItem from="1662107089061" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="Go placidly">
       <created>1651116932074</created>
